@@ -10,6 +10,7 @@
 - [ ] T3. Diseñar journey principal y wireframe responsive.
 - [ ] T3a. Crear CPT `herramientas`, taxonomías y campos internos/editoriales.
 - [ ] T3b. Crear plantilla WordPress para landing de producto.
+- [ ] T3c. Instalar y probar el plugin `brujula-digital-catalog` en un WordPress de staging.
 - [ ] T4. Implementar modelo de catálogo y estados de verificación.
 - [ ] T5. Implementar landing, selector de dolor, resultados y ficha.
 - [ ] T6. Añadir disclosures, privacidad, accesibilidad y SEO base.
