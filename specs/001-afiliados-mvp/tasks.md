@@ -8,6 +8,8 @@
 - [ ] T2b. Crear una ficha de cumplimiento para cada producto antes de publicarlo.
 - [ ] T2c. Definir eventos y métricas del embudo.
 - [ ] T3. Diseñar journey principal y wireframe responsive.
+- [ ] T3a. Crear CPT `herramientas`, taxonomías y campos internos/editoriales.
+- [ ] T3b. Crear plantilla WordPress para landing de producto.
 - [ ] T4. Implementar modelo de catálogo y estados de verificación.
 - [ ] T5. Implementar landing, selector de dolor, resultados y ficha.
 - [ ] T6. Añadir disclosures, privacidad, accesibilidad y SEO base.
