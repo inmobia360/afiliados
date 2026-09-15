@@ -2,6 +2,9 @@
 
 - [ ] T1. Resolver pendientes de clarificación y fijar el primer segmento.
 - [ ] T2. Crear inventario inicial de categorías, productos y fuentes.
+- [ ] T2a. Validar el diagnóstico de cinco preguntas y sus reglas editoriales.
+- [ ] T2b. Crear una ficha de cumplimiento para cada producto antes de publicarlo.
+- [ ] T2c. Definir eventos y métricas del embudo.
 - [ ] T3. Diseñar journey principal y wireframe responsive.
 - [ ] T4. Implementar modelo de catálogo y estados de verificación.
 - [ ] T5. Implementar landing, selector de dolor, resultados y ficha.
