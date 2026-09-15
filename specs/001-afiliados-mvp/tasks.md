@@ -2,6 +2,7 @@
 
 - [ ] T1. Resolver pendientes de clarificación y fijar el primer segmento.
 - [ ] T2. Crear inventario inicial de categorías, productos y fuentes.
+- [ ] T2d. Convertir la matriz de productos en fichas individuales verificadas.
 - [ ] T2a. Validar el diagnóstico de cinco preguntas y sus reglas editoriales.
 - [ ] T2b. Crear una ficha de cumplimiento para cada producto antes de publicarlo.
 - [ ] T2c. Definir eventos y métricas del embudo.
