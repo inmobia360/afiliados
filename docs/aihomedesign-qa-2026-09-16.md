@@ -16,6 +16,7 @@ catálogo → landing de recomendación → CTA afiliado
 - La landing presenta problema, diagnóstico, encaje, proceso y límites.
 - El pie público incluye el script de tracking del plugin con el evento affiliate_click.
 - El payload observado por inspección de código solo contiene event y tool; no incluye nombre, correo, dirección ni datos del inmueble.
+- Una prueba funcional del diagnóstico seleccionando «Centraliza consultas y evita perder seguimientos.» muestra un resultado orientativo y enlaza a la categoría necesidad=leads.
 
 ## Resultado
 
