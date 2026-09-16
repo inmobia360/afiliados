@@ -26,6 +26,6 @@
 - T4: En progreso. El CPT y los estados editoriales existen en WordPress; se ha añadido un esquema JSON para separar datos de producto, editorial y afiliación.
 - T5: En progreso. AIHomeDesign está publicado y Pipedrive tiene landing especificada; el prototipo y el shortcode del diagnóstico están preparados, pero Pipedrive no está cargado como ficha publicable.
 - T6: Parcialmente verificado. Disclosure y CTA etiquetado están presentes en AIHomeDesign; privacidad, contraste y auditoría completa requieren revisión adicional.
-- T7: Parcialmente verificado. El evento `affiliate_click` está implementado; faltan baseline, consentimiento/tratamiento de analítica y objetivos por categoría.
+- T7: Parcialmente verificado. El evento `affiliate_click` está implementado en la ficha y en la landing AIHomeDesign, con payload agregado `event` + `tool`; faltan baseline, consentimiento/tratamiento de analítica y objetivos por categoría.
 - T8: Parcialmente verificado. Se ha comprobado el flujo público y el catálogo filtrado; falta prueba completa de teclado, móvil real, estados de error y rendimiento.
 - T9: Pendiente. No publicar Pipedrive sin aprobación del programa, enlace de afiliado y revisión de términos.
