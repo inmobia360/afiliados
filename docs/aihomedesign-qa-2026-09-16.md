@@ -17,6 +17,7 @@ catálogo → landing de recomendación → CTA afiliado
 - El pie público incluye el script de tracking del plugin con el evento affiliate_click.
 - El payload observado por inspección de código solo contiene event y tool; no incluye nombre, correo, dirección ni datos del inmueble.
 - Una prueba funcional del diagnóstico seleccionando «Centraliza consultas y evita perder seguimientos.» muestra un resultado orientativo y enlaza a la categoría necesidad=leads.
+- Una prueba funcional seleccionando «Crea materiales con más consistencia y menos esfuerzo.» enlaza a necesidad=marketing; esa categoría muestra AIHomeDesign y su enlace apunta a la landing publicada.
 
 ## Resultado
 
