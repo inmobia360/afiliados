@@ -1,6 +1,6 @@
 # Brief del piloto: AIHomeDesign
 
-Estado: borrador editorial. No publicar hasta completar la revisión de afiliación y la comprobación final del enlace.
+Estado: publicado en staging de WordPress; mantener revisión periódica antes de cualquier campaña.
 Última comprobación documental: 16/09/2026.
 
 ## Objetivo de conversión
@@ -39,12 +39,12 @@ Aviso: «Esta página contiene un enlace de afiliación. Si contratas desde él,
 - La prueba debe medirse con eventos agregados y sin datos personales innecesarios: vista de ficha, clic en CTA y salida hacia el proveedor.
 - La ficha debe incluir esfuerzo, coste orientativo, límites y siguiente paso para reducir clics poco cualificados y mejorar la confianza.
 
-## Evidencia pendiente
+## Evidencia pendiente antes de una campaña
 
 - Confirmar justo antes de publicar el precio y las funcionalidades mostradas en la ficha; la página oficial consultada indica prueba inicial sin tarjeta, generación en segundos y precio desde 0,24 $ por foto, pero son datos sujetos a cambio.
 - Condiciones vigentes del programa de afiliación y método de atribución.
 - Resolución de la discrepancia entre la página pública del programa y los términos legales sobre la duración de las comisiones.
-- Prueba visual responsive y comprobación del destino del CTA.
+- Prueba visual responsive en dispositivos físicos y comprobación periódica del destino del CTA.
 
 La página pública del programa comunica actualmente una comisión recurrente del 30 % y atribución durante la relación del cliente; los términos legales deben prevalecer hasta que AIHomeDesign confirme por escrito qué condición aplica. No convertir ninguna de esas afirmaciones en copy definitivo mientras siga la discrepancia.
 
