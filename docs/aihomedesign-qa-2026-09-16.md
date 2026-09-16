@@ -21,7 +21,7 @@ catálogo → landing de recomendación → CTA afiliado
 
 **Aprobado para staging y revisión editorial periódica.**
 
-Esta comprobación no valida precios, comisiones, cookies ni condiciones contractuales del programa de afiliación. Esos datos siguen excluidos del copy público mientras persista la discrepancia documentada en docs/aihomedesign-affiliate-review.md.
+Esta comprobación no valida precios. Las condiciones de comisión y atribución se han contrastado en la revisión oficial, pero siguen excluidas del copy público para evitar promesas económicas y requieren revisión periódica.
 
 ## Pendiente
 

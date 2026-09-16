@@ -42,11 +42,10 @@ Aviso: «Esta página contiene un enlace de afiliación. Si contratas desde él,
 ## Evidencia pendiente antes de una campaña
 
 - Confirmar justo antes de publicar el precio y las funcionalidades mostradas en la ficha; la página oficial consultada indica prueba inicial sin tarjeta, generación en segundos y precio desde 0,24 $ por foto, pero son datos sujetos a cambio.
-- Condiciones vigentes del programa de afiliación y método de atribución.
-- Resolución de la discrepancia entre la página pública del programa y los términos legales sobre la duración de las comisiones.
+- Revisión periódica de las condiciones vigentes del programa de afiliación y método de atribución.
 - Prueba visual responsive en dispositivos físicos y comprobación periódica del destino del CTA.
 
-La página pública del programa comunica actualmente una comisión recurrente del 30 % y atribución durante la relación del cliente; los términos legales deben prevalecer hasta que AIHomeDesign confirme por escrito qué condición aplica. No convertir ninguna de esas afirmaciones en copy definitivo mientras siga la discrepancia.
+Los términos vigentes concretan 30 % de la tarifa neta sin IVA durante los tres primeros meses y atribución cuando el alta y el pago se producen dentro de 90 días del clic. Estos datos son internos y no se convierten en promesa de ingresos ni en copy de la landing.
 
 ## Fuera de alcance
 

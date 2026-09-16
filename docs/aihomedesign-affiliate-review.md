@@ -40,10 +40,10 @@ No se debe:
 - Medir únicamente eventos agregados y respetar el consentimiento aplicable; el evento técnico del piloto es `affiliate_click` y no contiene datos personales.
 - Revisar la ficha antes de cada campaña y retirar o corregir cualquier claim que haya cambiado.
 
-## Condiciones que no deben convertirse en copy definitivo
+## Condiciones internas verificadas — no convertir en promesa pública
 
-La página pública del programa comunica actualmente 30 % recurrente, pagos semanales desde 50 $ y una cookie de 90 días. El apartado 6.2 de los términos legales limita la comisión descrita a los pagos netos de los tres primeros meses y permite cambios en Rewardful. Por esta contradicción, estos datos quedan fuera del copy público hasta obtener confirmación escrita del proveedor o una versión contractual coherente.
+La página pública comunica 30 % recurrente, pagos semanales desde 50 USD y cookie de 90 días. Los términos vigentes concretan que la comisión es del 30 % de la tarifa neta sin IVA durante los tres primeros meses, que el cliente debe pagar dentro de los 90 días del clic y que el programa puede modificar campañas o condiciones mediante Rewardful. Se conserva una revisión periódica porque el proveedor puede cambiar estas condiciones.
 
 ## Resultado
 
-La ficha piloto es apta desde el punto de vista de buenas prácticas editoriales y de afiliación, pero no debe publicarse con promesas económicas ni con las condiciones de comisión mientras persista la discrepancia documental. La aprobación final requiere revisión humana del responsable de la cuenta.
+La ficha piloto es apta desde el punto de vista de buenas prácticas editoriales y de afiliación. No publica promesas económicas ni condiciones de comisión; la aprobación final de campañas requiere revisión humana del responsable de la cuenta.
