@@ -1,0 +1,58 @@
+{
+  "schema": "brujula-digital.diagnostic/v1",
+  "questions": [
+    {
+      "id": "pain",
+      "label": "¿Qué te está haciendo perder más tiempo ahora?",
+      "options": [
+        {"value": "organizacion", "label": "Tareas e información dispersas", "category": "productividad"},
+        {"value": "leads", "label": "Consultas sin seguimiento", "category": "leads"},
+        {"value": "automatizacion", "label": "Tareas repetitivas", "category": "automatizacion"},
+        {"value": "marketing", "label": "Crear contenido y publicaciones", "category": "marketing"}
+      ]
+    },
+    {
+      "id": "context",
+      "label": "¿Cómo trabajas principalmente?",
+      "options": [
+        {"value": "solo", "label": "Por mi cuenta"},
+        {"value": "equipo_pequeno", "label": "Con un pequeño equipo"},
+        {"value": "empresa_pequena", "label": "En una pequeña empresa"}
+      ]
+    },
+    {
+      "id": "level",
+      "label": "¿Qué nivel de cambio buscas?",
+      "options": [
+        {"value": "inicial", "label": "Algo sencillo para empezar"},
+        {"value": "intermedio", "label": "Conectar herramientas que ya uso"},
+        {"value": "avanzado", "label": "Procesos y automatizaciones completas"}
+      ]
+    }
+  ],
+  "category_copy": {
+    "productividad": "Ordena tu trabajo y recupera foco.",
+    "leads": "Centraliza consultas y evita perder seguimientos.",
+    "automatizacion": "Reduce tareas manuales entre herramientas.",
+    "marketing": "Crea materiales con más consistencia y menos esfuerzo."
+  },
+  "result_rules": {
+    "max_tools": 6,
+    "allowed_statuses": ["verified"],
+    "affiliate_click_requires": ["affiliate_approved", "policy_reviewed"],
+    "empty_state": "Todavía no tenemos una recomendación verificada para este caso.",
+    "fallback_category": "productividad"
+  },
+  "events": [
+    "diagnostic_started",
+    "diagnostic_answered",
+    "diagnostic_result_viewed",
+    "tool_recommendation_opened",
+    "affiliate_click"
+  ],
+  "privacy": {
+    "collect_email": false,
+    "collect_free_text": false,
+    "store_personal_data": false
+  }
+}

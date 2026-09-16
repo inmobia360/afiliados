@@ -1,0 +1,5 @@
+_package_stage/
+__pycache__/
+*.pyc
+brujula-digital-catalog-v2.zip
+brujula-digital-catalog-v3.zip

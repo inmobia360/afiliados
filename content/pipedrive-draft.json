@@ -1,0 +1,57 @@
+{
+  "schema": "brujula-digital.tool-draft/v1",
+  "status": "draft",
+  "publication_blockers": [
+    "affiliate_approval",
+    "affiliate_link",
+    "final_policy_review",
+    "final_product_price_check"
+  ],
+  "title": "Pipedrive: organiza tus leads y próximos pasos",
+  "brand": "Pipedrive",
+  "official_url": "https://www.pipedrive.com/en/industries/real-estate-crm",
+  "affiliate_url": null,
+  "affiliate_status": "Pendiente de aprobación de Inmobia360",
+  "policy_reviewed": false,
+  "categories": {
+    "need": ["Captación y atención de leads", "Productividad y organización"],
+    "profile": ["Agentes inmobiliarios"],
+    "level": ["Inicial"],
+    "type": ["CRM", "Seguimiento comercial"]
+  },
+  "conversion": {
+    "problem": "Leads, conversaciones y tareas dispersas dificultan saber qué oportunidad atender después.",
+    "diagnosis": "Si el negocio recibe consultas por varios canales y no tiene una siguiente acción visible para cada oportunidad, un CRM puede ayudar a ordenar el proceso.",
+    "recommendation": "Probar un flujo mínimo de captación, calificación, seguimiento y cierre.",
+    "cta_label": "Ver Pipedrive en su sitio oficial",
+    "disclosure": "Brújula Digital podría recibir una comisión si contratas desde un enlace de afiliado, sin coste adicional para ti.",
+    "tracking_event": "affiliate_click"
+  },
+  "editorial": {
+    "one_liner": "CRM visual para centralizar oportunidades y seguimiento comercial.",
+    "use_cases": [
+      "Centralizar leads",
+      "Visualizar el pipeline",
+      "Programar seguimientos",
+      "Separar oportunidades por etapa"
+    ],
+    "verified_product_points": [
+      "Buzón de leads",
+      "Pipeline visual",
+      "Actividades",
+      "Automatizaciones",
+      "Seguimiento de conversaciones",
+      "Caso de uso publicado para real estate"
+    ],
+    "limitations": [
+      "Funciones, precios y complementos pueden depender del plan contratado",
+      "La configuración inicial requiere definir etapas, campos, responsables y reglas"
+    ]
+  },
+  "sources": [
+    "https://www.pipedrive.com/en/affiliate-partnership",
+    "https://www.pipedrive.com/en/crm/features/lead-management",
+    "https://www.pipedrive.com/en/industries/real-estate-crm",
+    "https://www.pipedrive.com/en/features/activities-goals"
+  ]
+}
